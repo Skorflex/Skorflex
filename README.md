@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Skorflex
+- 👀 I’m interested in Dev
+- 🌱 I’m currently learning Python, Java, Javascript, HTML, CSS, C#, C++, LUA !
+- 📫 How to reach me: https://discord.gg/6A6J5VKrp4 !
